@@ -14,3 +14,9 @@ body {
 #mainText{
     margin-top: 30vh;
 }
+
+.carousel-icon {
+    width: auto;
+    height: 200px;
+    max-height: 200px;
+}
