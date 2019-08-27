@@ -1,6 +1,7 @@
 body {
     background-color: black;
     color: rgba(255,255,255,0.8);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #landing{
     height: 100vh;
