@@ -22,3 +22,11 @@ body {
     max-height: 200px;   
 }
 
+
+.card {
+    max-height: 300px;
+    min-height: 300px;
+}
+.activator{
+    max-height: 170px;
+}
