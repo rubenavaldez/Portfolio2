@@ -30,3 +30,7 @@ body {
 .activator{
     max-height: 170px;
 }
+
+.quote-spacer{
+    height: 200px;
+}
